@@ -1,0 +1,80 @@
+*{
+    margin: 0;  
+  }
+  html, body {
+    height: 100%;
+    width: 100%;
+  }
+
+  .click-me-img{
+    position: absolute;
+    width: 10vw;
+  }
+  .headnavbar{
+    font-family: 'Poor Story', cursive;
+    height: 5rem;
+    margin: 10px auto 5px;
+    padding-top: 10px;
+  }
+  
+  .form-main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+  }
+  
+  .footer{
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .footer-head{
+    margin-bottom:10px;
+    font-family: 'Inconsolata', monospace;
+  }
+  .fa-brands{
+    font-size: 1.5rem;
+  }
+  .main-navbar{
+    background-color: #efde1f;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .minion-img{
+    position: absolute;
+    width: 20vw;
+    top: 200px;
+  }
+  
+  #output-text{
+    width: 50vw;
+    height: 30vh;
+    border: 1px solid grey;
+    margin-top: 20px;
+    border-radius: 10px;
+    padding: 15px;
+    font-size: 1.25rem;
+  }
+  span{
+    font-size: 1rem;
+  }
+  .textarea-input{
+    width: 50vw;
+    height: 30vh;
+    margin: 10px auto;
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 1.25rem;
+  }
+  .translate{
+    font-family: 'Inconsolata', monospace;
+    font-weight: 550;
+    width: 20vw;
+    margin: 10px auto;
+    font-size: 1rem;
+  }
